@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798590035182",
+    "project_id": "utopian-spring-162503"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798590035182:android:bdef930f0e253664",
+        "android_client_info": {
+          "package_name": "com.example.android.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798590035182-nv2rvomhkknmohbrhgevbv1pej6b2fag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.demo",
+            "certificate_hash": "034e1843b2bc4b06f80c287c9bb4bdaf976f4a69"
+          }
+        },
+        {
+          "client_id": "798590035182-a9kuuo5s7hhj1kk58jc9fqilm18tsv1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluWodzOd8WsF28vukwlaUeuxhQp3WUa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
